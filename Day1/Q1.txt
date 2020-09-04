@@ -1,0 +1,13 @@
+1. list and its default functions
+
+ANS:
+     1) append(x) : Adds an item (x) to the end of the list. This is equivalent to a[len(a):]. = [x].
+     2) extend(iterable) : Extends the list by appending all the items from the iterable. This allows you to join two lists together. This method is equivalent to a[len(a):] = iterable.
+     3) insert(i, x) : 	
+Inserts an item at a given position. The first argument is the index of the element before which to insert. For example, a.insert(0, x) inserts at the front of the list.
+     4) remove(x) : Removes the first item from the list that has a value of x. Returns an error if there is no such item.
+     5) sort(key=None, reverse=False) : Sorts the items of the list in place. The arguments can be used to customize the operation.
+         Key:
+               Specifies a function of one argument that is used to extract a comparison key from each list          element. The default value is None (compares the elements directly).
+         Reverse:
+                 Boolean value. If set to True, then the list elements are sorted as if each comparison were             reversed.
