@@ -1,0 +1,8 @@
+5. Strings and explore default methods
+
+ANS: 
+       1) capitalize() : Converts the first character to upper case
+       2) casefold() : Converts string into lower case
+       3) center() : Returns a centered string
+       4) count() : Returns the number of times a specified value occurs in a string
+       5) encode() : Returns an encoded version of the string
