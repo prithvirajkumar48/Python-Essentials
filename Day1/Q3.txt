@@ -1,0 +1,8 @@
+3. Sets and its default functions.
+
+ANS: 
+       1) difference() : Returns a set containing the difference between two or more sets.
+       2) discard() : Remove the specified item
+       3) intersection() : Returns a set, that is the intersection of two other sets.
+       4) symmetric_difference() : Returns a set with the symmetric differences of two sets
+       5) issuperset() : Returns whether this set contains another set or not
