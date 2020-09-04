@@ -1,0 +1,8 @@
+2. Dictionary and its default functions.
+
+ANS: 
+       1) fromkeys() : Returns a dictionary with the specified keys and value
+       2) popitem()  : Removes the last inserted key-value pair
+       3) setdefault() : Returns the value of the specified key. If the key does not exist: insert the key,                          with the specified value
+       4) update() : Updates the dictionary with the specified key-value pairs
+       5) values() : Returns a list of all the values in the dictionary
